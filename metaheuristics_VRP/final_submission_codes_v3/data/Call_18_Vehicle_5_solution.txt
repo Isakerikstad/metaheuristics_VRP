@@ -1,0 +1,11 @@
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 2374420.00
+Best solution: [4, 4, 15, 15, 11, 11, 16, 16, 0, 6, 6, 5, 18, 5, 14, 17, 17, 14, 18, 0, 9, 8, 8, 9, 13, 13, 0, 7, 7, 3, 3, 10, 1, 10, 1, 0, 12, 12, 0, 2, 2]
+Average cost: 2374420.00
+Improvement: 73.50%
+Feasible solutions: 9139 for 10000 passes
+Iteration numbers of optimal solutions of each run: [9138]
+All costs of all solutions: [2374420.0]Runtime: 1500.37 seconds
+Time of experiment: 2025-05-07 10:35:07
+------------------

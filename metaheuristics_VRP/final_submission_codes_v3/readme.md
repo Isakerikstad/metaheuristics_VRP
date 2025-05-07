@@ -1,0 +1,2 @@
+To run all the files in "parallel" write in the terminal: python final_script.py --full --parallel --number_runs 1
+If you want to run one file at a time, write in the terminal: python final_script.py --file "data\Call_7_Vehicle_3.txt" --number_runs 1 

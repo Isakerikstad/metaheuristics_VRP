@@ -1,0 +1,858 @@
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 17
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1149436.50
+Improvement: 64.55%
+Feasible solutions: 4798 for 20000 passes
+Operator usage: [2108, 7555, 3270, 3821, 3246, 2382, 2315, 5553, 9750]
+Iteration numbers of optimal solutions of each run: [222, 1320]
+Runtime: 33.08 seconds
+Time of experiment: 2025-03-30 23:06:13
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 17
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 5180 for 20000 passes
+Operator usage: [2291, 4809, 3631, 6090, 3179, 2156, 2105, 2111, 5099, 8529]
+Iteration numbers of optimal solutions of each run: [6164, 482]
+Runtime: 35.40 seconds
+Time of experiment: 2025-03-30 23:07:58
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 17
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 3922 for 20000 passes
+Operator usage: [3484, 3671, 3969, 5190, 3686, 3362, 3356, 3395, 4886, 5001]
+Iteration numbers of optimal solutions of each run: [9939, 482]
+Runtime: 41.35 seconds
+Time of experiment: 2025-03-30 23:14:56
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 334
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1145644.70
+Improvement: 64.67%
+Feasible solutions: 17329 for 100000 passes
+Operator usage: [13965, 18055, 27078, 25329, 15573, 11997, 12918, 12519, 17507, 23280, 21779]
+Iteration numbers of optimal solutions of each run: [1150, 1111, 728, 826, 871, 3207, 1666, 6102, 544, 662]
+Runtime: 171.36 seconds
+Time of experiment: 2025-03-30 23:59:16
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 334
+Best solution cost: 2172917.00
+Best solution: [4, 4, 0, 3, 3, 0, 7, 7, 0, 1, 1, 2, 2, 5, 5, 6, 6]
+Average cost: 2413772.67
+Improvement: 25.56%
+Feasible solutions: 10005 for 30000 passes
+Operator usage: [30000, 30000]
+Iteration numbers of optimal solutions of each run: [35, 11, 3]
+Runtime: 17.12 seconds
+Time of experiment: 2025-03-31 14:45:25
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 334
+Best solution cost: 1607109.00
+Best solution: [4, 4, 0, 3, 5, 7, 0, 3, 5, 7, 0, 1, 1, 2, 2, 6, 6]
+Average cost: 1650926.00
+Improvement: 49.09%
+Feasible solutions: 16043 for 30000 passes
+Operator usage: [30000, 30000]
+Iteration numbers of optimal solutions of each run: [1532, 3978, 4674]
+Runtime: 11.48 seconds
+Time of experiment: 2025-03-31 15:08:34
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 334
+Best solution cost: 2614583.00
+Best solution: [3, 3, 0, 0, 1, 1, 0, 2, 2, 4, 4, 5, 5, 6, 6, 7, 7]
+Average cost: 2636155.00
+Improvement: 18.70%
+Feasible solutions: 7117 for 30000 passes
+Operator usage: [30000, 30000]
+Iteration numbers of optimal solutions of each run: [2, 1, 1]
+Runtime: 91.82 seconds
+Time of experiment: 2025-03-31 17:03:18
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 334
+Best solution cost: 2614583.00
+Best solution: [3, 3, 0, 0, 1, 1, 0, 2, 2, 4, 4, 5, 5, 6, 6, 7, 7]
+Average cost: 2636155.00
+Improvement: 18.70%
+Feasible solutions: 7117 for 30000 passes
+Operator usage: [30000, 30000]
+Iteration numbers of optimal solutions of each run: [2, 1, 1]
+Runtime: 95.38 seconds
+Time of experiment: 2025-03-31 17:10:04
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 2432958.00
+Best solution: [7, 7, 0, 0, 1, 1, 0, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6]
+Average cost: 2562368.67
+Improvement: 20.98%
+Feasible solutions: 5686 for 30000 passes
+Operator usage: [30000, 30000]
+Iteration numbers of optimal solutions of each run: [3, 1, 2]
+Runtime: 92.93 seconds
+Time of experiment: 2025-03-31 17:12:19
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 2646941.00
+Best solution: [4, 4, 0, 0, 1, 1, 0, 2, 2, 3, 3, 5, 5, 6, 6, 7, 7]
+Average cost: 2646941.00
+Improvement: 18.37%
+Feasible solutions: 2806 for 30000 passes
+Operator usage: [10000, 10000]
+Iteration numbers of optimal solutions of each run: [3]
+Runtime: 87.01 seconds
+Time of experiment: 2025-03-31 17:25:51
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1405629.67
+Improvement: 56.65%
+Feasible solutions: 30003 for 30000 passes
+Operator usage: [30000, 30000]
+Iteration numbers of optimal solutions of each run: [17, 9, 9]
+Runtime: 179.38 seconds
+Time of experiment: 2025-03-31 17:54:38
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 303 for 30000 passes
+Operator usage: [300, 300]
+Iteration numbers of optimal solutions of each run: [3, 1, 3]
+Runtime: 5.22 seconds
+Time of experiment: 2025-03-31 18:04:58
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 303 for 30000 passes
+Operator usage: [300, 300]
+Iteration numbers of optimal solutions of each run: [3, 1, 3]
+Runtime: 5.03 seconds
+Time of experiment: 2025-03-31 18:13:27
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 334
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 1010 for 100000 passes
+Operator usage: [1000, 1000]
+Iteration numbers of optimal solutions of each run: [6, 48, 0, 8, 21, 3, 5, 9, 2, 2]
+Runtime: 16.32 seconds
+Time of experiment: 2025-03-31 18:18:52
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 17
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 202 for 20000 passes
+Operator usage: [200, 200]
+Iteration numbers of optimal solutions of each run: [9, 24]
+Runtime: 3.49 seconds
+Time of experiment: 2025-03-31 18:42:05
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 17
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 202 for 20000 passes
+Operator usage: [200, 200]
+Iteration numbers of optimal solutions of each run: [9, 24]
+Runtime: 1.97 seconds
+Time of experiment: 2025-03-31 18:45:56
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 334
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 1010 for 100000 passes
+Operator usage: [308, 345, 347, 1000]
+Iteration numbers of optimal solutions of each run: [6, 16, 0, 8, 20, 8, 25, 14, 5, 17]
+Runtime: 10.26 seconds
+Time of experiment: 2025-03-31 20:15:53
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 303 for 30000 passes
+Operator usage: [105, 105, 90, 300]
+Iteration numbers of optimal solutions of each run: [8, 14, 55]
+Runtime: 3.17 seconds
+Time of experiment: 2025-03-31 20:30:13
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 303 for 30000 passes
+Operator usage: [300, 300]
+Iteration numbers of optimal solutions of each run: [3, 1, 3]
+Runtime: 2.91 seconds
+Time of experiment: 2025-04-01 14:45:19
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 303 for 30000 passes
+Operator usage: [300, 300]
+Iteration numbers of optimal solutions of each run: [3, 1, 3]
+Runtime: 2.98 seconds
+Time of experiment: 2025-04-01 14:46:17
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 1010 for 100000 passes
+Operator usage: [1000, 1000]
+Iteration numbers of optimal solutions of each run: [3, 1, 3, 5, 9, 20, 23, 1, 2, 18]
+Runtime: 11.78 seconds
+Time of experiment: 2025-04-04 10:52:59
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 1010 for 100000 passes
+Operator usage: [1000, 1000]
+Iteration numbers of optimal solutions of each run: [3, 1, 3, 5, 9, 20, 23, 1, 2, 18]
+Runtime: 10.74 seconds
+Time of experiment: 2025-04-04 10:54:51
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 110
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 14 for 10000 passes
+Iteration numbers of optimal solutions of each run: [115]
+All costs of all solutions: [1134176.0]Runtime: 0.40 seconds
+Time of experiment: 2025-04-11 15:57:02
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 110
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 134 for 50000 passes
+Iteration numbers of optimal solutions of each run: [51, 4, 22, 45, 2]
+All costs of all solutions: [1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0]Runtime: 6.20 seconds
+Time of experiment: 2025-04-18 20:40:07
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 110
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 134 for 50000 passes
+Iteration numbers of optimal solutions of each run: [51, 4, 22, 45, 2]
+All costs of all solutions: [1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0]Runtime: 6.18 seconds
+Time of experiment: 2025-04-19 01:42:21
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 2
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [68]
+All costs of all solutions: [1134176.0]Runtime: 4.11 seconds
+Time of experiment: 2025-04-22 11:21:46
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 2
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [16]
+All costs of all solutions: [1134176.0]Runtime: 3.51 seconds
+Time of experiment: 2025-04-22 14:18:50
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 22
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [29]
+All costs of all solutions: [1134176.0]Runtime: 3.72 seconds
+Time of experiment: 2025-04-22 14:20:08
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 5
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [59]
+All costs of all solutions: [1134176.0]Runtime: 3.44 seconds
+Time of experiment: 2025-04-23 17:36:06
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 4
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [5]
+All costs of all solutions: [1134176.0]Runtime: 3.44 seconds
+Time of experiment: 2025-04-23 18:34:11
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 9
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [26]
+All costs of all solutions: [1134176.0]Runtime: 3.01 seconds
+Time of experiment: 2025-04-24 16:04:08
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 9
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 1064 for 100000 passes
+Iteration numbers of optimal solutions of each run: [15, 7, 3, 12, 153, 0, 26, 48, 44, 28]
+All costs of all solutions: [1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0]Runtime: 25.12 seconds
+Time of experiment: 2025-04-24 21:41:11
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 9
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [11]
+All costs of all solutions: [1134176.0]Runtime: 2.85 seconds
+Time of experiment: 2025-04-25 08:50:18
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 9
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 1104 for 100000 passes
+Iteration numbers of optimal solutions of each run: [11, 101, 62, 64, 116, 127, 101, 133, 110, 50]
+All costs of all solutions: [1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0]Runtime: 26.59 seconds
+Time of experiment: 2025-04-25 08:53:04
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 9
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 1077 for 100000 passes
+Iteration numbers of optimal solutions of each run: [14, 119, 39, 64, 12, 1, 101, 133, 110, 42]
+All costs of all solutions: [1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0]Runtime: 32.33 seconds
+Time of experiment: 2025-04-25 08:59:12
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 9
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 1077 for 100000 passes
+Iteration numbers of optimal solutions of each run: [14, 119, 39, 64, 12, 1, 101, 133, 110, 42]
+All costs of all solutions: [1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0]Runtime: 29.83 seconds
+Time of experiment: 2025-04-25 09:09:03
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 9
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 1077 for 100000 passes
+Iteration numbers of optimal solutions of each run: [14, 119, 39, 64, 12, 1, 101, 133, 110, 42]
+All costs of all solutions: [1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0]Runtime: 29.42 seconds
+Time of experiment: 2025-04-25 09:11:50
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 9
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 1077 for 100000 passes
+Iteration numbers of optimal solutions of each run: [14, 119, 39, 64, 12, 1, 101, 133, 110, 42]
+All costs of all solutions: [1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0]Runtime: 31.01 seconds
+Time of experiment: 2025-04-25 09:41:40
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 10
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 1010 for 100000 passes
+Iteration numbers of optimal solutions of each run: [16, 21, 64, 12, 1, 93, 21, 78, 23, 87]
+All costs of all solutions: [1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0]Runtime: 30.06 seconds
+Time of experiment: 2025-04-29 18:15:56
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [3]
+All costs of all solutions: [1134176.0]Runtime: 3.39 seconds
+Time of experiment: 2025-04-29 18:25:38
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [3]
+All costs of all solutions: [1134176.0]Runtime: 4.30 seconds
+Time of experiment: 2025-04-29 18:33:58
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [26]
+All costs of all solutions: [1134176.0]Runtime: 3.98 seconds
+Time of experiment: 2025-04-29 18:46:15
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [3]
+All costs of all solutions: [1134176.0]Runtime: 4.10 seconds
+Time of experiment: 2025-04-29 18:57:48
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [41]
+All costs of all solutions: [1134176.0]Runtime: 5.19 seconds
+Time of experiment: 2025-04-30 09:30:25
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [3]
+All costs of all solutions: [1134176.0]Runtime: 4.67 seconds
+Time of experiment: 2025-04-30 09:44:31
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [3]
+All costs of all solutions: [1134176.0]Runtime: 4.11 seconds
+Time of experiment: 2025-04-30 10:00:50
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 3242625.00
+Best solution: [0, 0, 0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7]
+Average cost: 3242625.00
+Improvement: 0.00%
+Feasible solutions: 0 for 10000 passes
+Iteration numbers of optimal solutions of each run: []
+All costs of all solutions: []Runtime: 23.89 seconds
+Time of experiment: 2025-04-30 10:25:19
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [3]
+All costs of all solutions: [1134176.0]Runtime: 4.68 seconds
+Time of experiment: 2025-04-30 10:26:18
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [3]
+All costs of all solutions: [1134176.0]Runtime: 4.48 seconds
+Time of experiment: 2025-04-30 10:34:57
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [3]
+All costs of all solutions: [1134176.0]Runtime: 4.57 seconds
+Time of experiment: 2025-04-30 11:08:35
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [3]
+All costs of all solutions: [1134176.0]Runtime: 4.05 seconds
+Time of experiment: 2025-04-30 11:25:54
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [3]
+All costs of all solutions: [1134176.0]Runtime: 3.97 seconds
+Time of experiment: 2025-04-30 11:38:34
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 518 for 50000 passes
+Iteration numbers of optimal solutions of each run: [3, 60, 86, 59, 112]
+All costs of all solutions: [1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0]Runtime: 21.09 seconds
+Time of experiment: 2025-04-30 12:34:24
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [3]
+All costs of all solutions: [1134176.0]Runtime: 3.04 seconds
+Time of experiment: 2025-04-30 13:12:42
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 1
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [100]
+All costs of all solutions: [1134176.0]Runtime: 1.62 seconds
+Time of experiment: 2025-04-30 13:38:06
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 1
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [100]
+All costs of all solutions: [1134176.0]Runtime: 1.81 seconds
+Time of experiment: 2025-04-30 16:17:01
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 1
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [100]
+All costs of all solutions: [1134176.0]Runtime: 2.31 seconds
+Time of experiment: 2025-04-30 17:25:30
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 1
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [100]
+All costs of all solutions: [1134176.0]Runtime: 2.08 seconds
+Time of experiment: 2025-04-30 22:36:35
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 1
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 508 for 50000 passes
+Iteration numbers of optimal solutions of each run: [100, 100, 100, 100, 103]
+All costs of all solutions: [1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0]Runtime: 11.57 seconds
+Time of experiment: 2025-04-30 22:41:02
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 1
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 574 for 50000 passes
+Iteration numbers of optimal solutions of each run: [100, 100, 126, 141, 102]
+All costs of all solutions: [1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0]Runtime: 18.96 seconds
+Time of experiment: 2025-04-30 22:41:27
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 42
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 50005 for 50000 passes
+Iteration numbers of optimal solutions of each run: [41, 94, 83, 127, 169]
+All costs of all solutions: [1134176.0, 1134176.0, 1134176.0, 1134176.0, 1134176.0]Runtime: 904.88 seconds
+Time of experiment: 2025-05-02 13:30:30
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 1
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 10001 for 10000 passes
+Iteration numbers of optimal solutions of each run: [8]
+All costs of all solutions: [1134176.0]Runtime: 224.65 seconds
+Time of experiment: 2025-05-02 15:32:16
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 1
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 10001 for 10000 passes
+Iteration numbers of optimal solutions of each run: [8]
+All costs of all solutions: [1134176.0]Runtime: 330.41 seconds
+Time of experiment: 2025-05-02 15:39:24
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 1
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 10001 for 10000 passes
+Iteration numbers of optimal solutions of each run: [8]
+All costs of all solutions: [1134176.0]Runtime: 210.84 seconds
+Time of experiment: 2025-05-02 16:05:47
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 1
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 10001 for 10000 passes
+Iteration numbers of optimal solutions of each run: [8]
+All costs of all solutions: [1134176.0]Runtime: 170.78 seconds
+Time of experiment: 2025-05-02 16:32:38
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 5
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 10001 for 10000 passes
+Iteration numbers of optimal solutions of each run: [40]
+All costs of all solutions: [1134176.0]Runtime: 182.85 seconds
+Time of experiment: 2025-05-02 20:28:36
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 5
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 101 for 10000 passes
+Iteration numbers of optimal solutions of each run: [100]
+All costs of all solutions: [1134176.0]Runtime: 2.27 seconds
+Time of experiment: 2025-05-03 13:14:33
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 5
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 202 for 20000 passes
+Iteration numbers of optimal solutions of each run: [100, 100]
+All costs of all solutions: [1134176.0, 1134176.0]Runtime: 4.88 seconds
+Time of experiment: 2025-05-03 13:52:10
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 5
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 202 for 20000 passes
+Iteration numbers of optimal solutions of each run: [100, 100]
+All costs of all solutions: [1134176.0, 1134176.0]Runtime: 4.39 seconds
+Time of experiment: 2025-05-03 13:53:41
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 5
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 202 for 20000 passes
+Iteration numbers of optimal solutions of each run: [100, 100]
+All costs of all solutions: [1134176.0, 1134176.0]Runtime: 3.82 seconds
+Time of experiment: 2025-05-03 14:22:16
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 5
+Best solution cost: 1134176.00
+Best solution: [4, 4, 2, 2, 0, 7, 7, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 287 for 20000 passes
+Iteration numbers of optimal solutions of each run: [100, 185]
+All costs of all solutions: [1134176.0, 1134176.0]Runtime: 6.98 seconds
+Time of experiment: 2025-05-03 15:15:55
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 5
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 202 for 20000 passes
+Iteration numbers of optimal solutions of each run: [100, 100]
+All costs of all solutions: [1134176.0, 1134176.0]Runtime: 2.67 seconds
+Time of experiment: 2025-05-03 16:28:14
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 5
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 202 for 20000 passes
+Iteration numbers of optimal solutions of each run: [100, 100]
+All costs of all solutions: [1134176.0, 1134176.0]Runtime: 3.14 seconds
+Time of experiment: 2025-05-03 18:21:17
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 5
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 202 for 20000 passes
+Iteration numbers of optimal solutions of each run: [100, 100]
+All costs of all solutions: [1134176.0, 1134176.0]Runtime: 2.63 seconds
+Time of experiment: 2025-05-03 19:15:29
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 5
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 202 for 20000 passes
+Iteration numbers of optimal solutions of each run: [100, 100]
+All costs of all solutions: [1134176.0, 1134176.0]Runtime: 2.47 seconds
+Time of experiment: 2025-05-04 17:39:49
+------------------
+Algorithm: Adaptive Weights Simulated Annealing.
+Seed: 5
+Best solution cost: 1134176.00
+Best solution: [4, 4, 7, 7, 0, 2, 2, 0, 1, 5, 5, 3, 3, 1, 0, 6, 6]
+Average cost: 1134176.00
+Improvement: 65.02%
+Feasible solutions: 20002 for 20000 passes
+Iteration numbers of optimal solutions of each run: [4, 17]
+All costs of all solutions: [1134176.0, 1134176.0]Runtime: 423.27 seconds
+Time of experiment: 2025-05-04 18:41:01
+------------------
